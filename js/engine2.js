@@ -248,7 +248,7 @@ var Engine = (function(global) {
         'images/gohan.png',
         'images/trunks.png',
         'images/piccolo.png',
-        'images/heart1.png',
+        'images/Heart1.png',
         'images/ball.png',
         'images/Selector.png',
         'images/shenron.png'
