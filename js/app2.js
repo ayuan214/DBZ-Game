@@ -199,7 +199,7 @@ var Heart = function(lives) {
     this.x = 505;
     this.y = 10;
     this.lives = lives; 
-    this.sprite = 'images/Heart1.png';
+    this.sprite = 'images/heart1.png';
 }
 
 
